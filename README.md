@@ -3,7 +3,7 @@ Batante simple tho.
 
 Esta es una pequeña app que sirve para poder calcular las tarifas de PayPal automáticamente.
 Es una interfaz gráfica simple que considera el cargo fijo y la comisión del 4.99% en tarifas internacionales y el 3.99% en tarifas internacionales.
-Su funcionamiento se basa en establecer cuanto es el dinero que te deberían envíar (USD) para recibir tú un monto determinado.
+Su funcionamiento se basa en establecer cuanto es el dinero que te deberían envíar (USD) para recibir un un monto determinado.
 
 IMPORTANTE: El código solo contempla las tarifas en Chile.
 
