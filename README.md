@@ -7,7 +7,7 @@ Su funcionamiento se basa en establecer cuanto es el dinero que te deberían env
 
 IMPORTANTE: El código solo contempla las tarifas en Chile.
 
-INSTRUCCIONES: Dentro de la carpeta 'dist' está disponible el ejecutable de la aplicación, no requiere ningún tipo de instalación o setteo1 y 
+INSTRUCCIONES: Dentro de la carpeta 'dist' está disponible el ejecutable de la aplicación, no requiere ningún tipo de instalación o setteo, además 
 el ejecutable puede ser movido a voluntad sin dejar de funcionar.
 
 NOTA: La app no está firmada, así que probablemente levante alarmas del antivirus.
